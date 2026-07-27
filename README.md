@@ -21,7 +21,7 @@ To design, simulate, and analyze an electronic mosquito repellent circuit using 
 
 **Circuit Diagram**
 
-<img width="866" height="567" alt="image" src="https://github.com/user-attachments/assets/40a6bfc9-e278-45e8-9622-1a7127448982" />
+<img width="1215" height="737" alt="image" src="https://github.com/user-attachments/assets/bdc49476-3703-425c-ac0f-fb8570188cab" />
 
 **Theory**
 
